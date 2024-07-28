@@ -6,7 +6,8 @@
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "Open to women of legal age worldwide",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.yvesrocherfoundation.org"
     },
     {
         "id": 2,
@@ -15,7 +16,8 @@
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "Open to women of legal age worldwide & International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.yvesrocherfoundation.org"
     },
     {
         "id": 3,
@@ -24,88 +26,78 @@
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.yvesrocherfoundation.org"
     },
     {
         "id": 4,
         "universityName": "Emile Boutmy",
         "scholarshipDeadline": "3-Dec-23",
-        "scholarshipDepartment": "N.A",
-        "scholarshipLevel": "N.A",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.sciencespo.fr/students/en/fees-funding/financial-aid/emile-boutmy-scholarships"
     },
     {
         "id": 5,
         "universityName": "INSEAD",
         "scholarshipDeadline": "31-Dec-23",
-        "scholarshipDepartment": "N.A",
-        "scholarshipLevel": "N.A",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
-    },
-    {
-        "id": 6,
-        "universityName": "Emile Boutmy Scholarship",
-        "scholarshipDeadline": "3-Dec-23",
-        "scholarshipDepartment": "N.A",
-        "scholarshipLevel": "N.A",
-        "scholarshipNationality": "International",
-        "scholarshipCountry": "Canada"
-    },
-    {
-        "id": 7,
-        "universityName": "ENS International",
-        "scholarshipDeadline": "11-Dec-23",
-        "scholarshipDepartment": "N.A",
-        "scholarshipLevel": "N.A",
-        "scholarshipNationality": "International",
-        "scholarshipCountry": "Canada"
+        "scholarshipCountry": "France",
+        "url": "https://www.insead.edu"
     },
     {
         "id": 8,
         "universityName": "Euro Science",
         "scholarshipDeadline": "31-Dec-23",
-        "scholarshipDepartment": "N.A",
-        "scholarshipLevel": "N.A",
-        "scholarshipNationality": "Internatonal",
-        "scholarshipCountry": "France"
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "NA",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.euroscience.org"
     },
     {
         "id": 9,
-        "universityName": "The International Brain Research Organizaton (IBRO)",
+        "universityName": "The International Brain Research Organization (IBRO)",
         "scholarshipDeadline": "31-Dec-23",
-        "scholarshipDepartment": "N.A",
-        "scholarshipLevel": "N.A",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.ibro.org"
     },
     {
         "id": 10,
         "universityName": "Sciences Po",
         "scholarshipDeadline": "3-Dec-23",
-        "scholarshipDepartment": "N.A",
-        "scholarshipLevel": "N.A",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.sciencespo.fr"
     },
     {
         "id": 11,
-        "universityName": "Paris School of InternationL Affairs (PSIA), Science Po",
+        "universityName": "Paris School of International Affairs (PSIA), Sciences Po",
         "scholarshipDeadline": "31-Dec-23",
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
-        "scholarshipNationality": "Candian Citizens",
-        "scholarshipCountry": "France"
+        "scholarshipNationality": "Canadian Citizens",
+        "scholarshipCountry": "France",
+        "url": "https://www.sciencespo.fr/psia"
     },
     {
         "id": 12,
         "universityName": "Ecole Normale Superieure in Paris",
         "scholarshipDeadline": "11-Dec-23",
-        "scholarshipDepartment": "N.A",
-        "scholarshipLevel": "N.A",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.ens.fr"
     },
     {
         "id": 13,
@@ -114,7 +106,8 @@
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.universite-paris-saclay.fr"
     },
     {
         "id": 14,
@@ -123,7 +116,8 @@
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.universite-paris-saclay.fr"
     },
     {
         "id": 15,
@@ -132,7 +126,8 @@
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.universite-paris-saclay.fr"
     },
     {
         "id": 16,
@@ -141,34 +136,8 @@
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
-    },
-    {
-        "id": 17,
-        "universityName": "Paris-Saclay University",
-        "scholarshipDeadline": "10-May-23",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
-    },
-    {
-        "id": 18,
-        "universityName": "Paris-Saclay University",
-        "scholarshipDeadline": "10-May-23",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
-    },
-    {
-        "id": 19,
-        "universityName": "Paris-Saclay University",
-        "scholarshipDeadline": "10-May-23",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.universite-paris-saclay.fr"
     },
     {
         "id": 20,
@@ -177,7 +146,8 @@
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-lorraine.fr"
     },
     {
         "id": 21,
@@ -186,7 +156,8 @@
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.uca.fr"
     },
     {
         "id": 22,
@@ -195,16 +166,8 @@
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
-    },
-    {
-        "id": 23,
-        "universityName": "The University of Lorraine",
-        "scholarshipDeadline": "10-Sep-22",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.cemef.mines-paristech.fr"
     },
     {
         "id": 24,
@@ -213,7 +176,8 @@
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-amu.fr"
     },
     {
         "id": 25,
@@ -222,7 +186,8 @@
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.uca.fr"
     },
     {
         "id": 26,
@@ -231,16 +196,8 @@
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
-    },
-    {
-        "id": 27,
-        "universityName": "CEMEF",
-        "scholarshipDeadline": "1-Oct-22",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-amu.fr"
     },
     {
         "id": 28,
@@ -249,7 +206,8 @@
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-amu.fr"
     },
     {
         "id": 29,
@@ -258,141 +216,677 @@
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
+        "scholarshipCountry": "France",
+        "url": "https://www.audencia.com"
     },
     {
         "id": 30,
-        "universityName": "IESEG School of Management",
-        "scholarshipDeadline": "15-Jul-22",
+        "universityName": "Aix-Marseille University",
+        "scholarshipDeadline": "11-Aug-22",
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France"
-    },
-    {
-        "id": 31,
-        "universityName": "European Union",
-        "scholarshipDeadline": "6-Jun-22",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "International",
-        "scholarshipCountry": "Italy, France, Germany, Serbia"
-    },
-    {
-        "id": 32,
-        "universityName": "Department of Higher Education and Training",
-        "scholarshipDeadline": "16-Oct-22",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "International",
-        "scholarshipCountry": "France."
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-amu.fr"
     },
     {
         "id": 33,
-        "universityName": "IESEG School of Management",
-        "scholarshipDeadline": "29-Apr-22",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "International",
-        "scholarshipCountry": "France."
-    },
-    {
-        "id": 34,
-        "universityName": "Aix-Marseille University",
-        "scholarshipDeadline": "30-Apr-22",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "International",
-        "scholarshipCountry": "France."
-    },
-    {
-        "id": 35,
-        "universityName": "University of Rennes 1",
-        "scholarshipDeadline": "30-Apr-22",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "International",
-        "scholarshipCountry": "France."
-    },
-    {
-        "id": 36,
-        "universityName": "Ban Ki-Moon Centre and University of Bordeaux",
-        "scholarshipDeadline": "3-Apr-22",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "International",
-        "scholarshipCountry": "France."
-    },
-    {
-        "id": 37,
-        "universityName": "French Institute for Demographic Studies",
-        "scholarshipDeadline": "18-May-22",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "Domestic and International",
-        "scholarshipCountry": "France."
-    },
-    {
-        "id": 38,
-        "universityName": "French Institute for Demographic Studies",
-        "scholarshipDeadline": "18-May-22",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "Domestic and International",
-        "scholarshipCountry": "France."
-    },
-    {
-        "id": 39,
-        "universityName": "The Institut Galilee",
-        "scholarshipDeadline": "10-Jun-22",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "Domestic and International",
-        "scholarshipCountry": "France."
-    },
-    {
-        "id": 40,
-        "universityName": "The IMPLANTEUS Graduate School",
-        "scholarshipDeadline": "29-Apr-22",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "International",
-        "scholarshipCountry": "France."
-    },
-    {
-        "id": 41,
-        "universityName": "ESSCA School of Management",
-        "scholarshipDeadline": "8-Jul-22",
-        "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
-        "scholarshipNationality": "International",
-        "scholarshipCountry": "France."
-    },
-    {
-        "id": 42,
-        "universityName": "ESSCA School of Management",
+        "universityName": "ENS Paris-Saclay",
         "scholarshipDeadline": "31-Jan-22",
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France."
+        "scholarshipCountry": "France",
+        "url": "https://www.ens-paris-saclay.fr"
+    },
+    {
+        "id": 36,
+        "universityName": "International Astronomical Union (IAU)",
+        "scholarshipDeadline": "31-Jul-22",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "NA",
+        "scholarshipNationality": "NA",
+        "scholarshipCountry": "France",
+        "url": "https://www.iau.org"
+    },
+    {
+        "id": 37,
+        "universityName": "Fondation Rainbow Bridge",
+        "scholarshipDeadline": "10-Jul-22",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "NA",
+        "scholarshipNationality": "Women from Asian or African Countries",
+        "scholarshipCountry": "France",
+        "url": "https://www.foundationrainbowbridge.org"
+    },
+    {
+        "id": 38,
+        "universityName": "KEDGE Business School",
+        "scholarshipDeadline": "5-Sep-22",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "NA",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.kedgebs.com"
+    },
+    {
+        "id": 39,
+        "universityName": "IMT Atlantique",
+        "scholarshipDeadline": "31-Mar-22",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "NA",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.imt-atlantique.fr"
+    },
+    {
+        "id": 40,
+        "universityName": "KEDGE Business School",
+        "scholarshipDeadline": "15-Apr-22",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "NA",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.kedgebs.com"
+    },
+    {
+        "id": 41,
+        "universityName": "HEC Paris",
+        "scholarshipDeadline": "1-May-22",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "NA",
+        "scholarshipNationality": "African",
+        "scholarshipCountry": "France",
+        "url": "https://www.hec.edu"
+    },
+    {
+        "id": 42,
+        "universityName": "Institute for Advanced Study in Toulouse (IAST)",
+        "scholarshipDeadline": "15-Jan-22",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "Postdoctoral",
+        "scholarshipNationality": "NA",
+        "scholarshipCountry": "France",
+        "url": "https://www.iast.fr"
     },
     {
         "id": 43,
-        "universityName": "University of Paris",
-        "scholarshipDeadline": "16-Jan-22",
+        "universityName": "Toulouse School of Economics (TSE)",
+        "scholarshipDeadline": "1-Jan-22",
         "scholarshipDepartment": "NA",
-        "scholarshipLevel": "NA",
+        "scholarshipLevel": "Graduate",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France."
+        "scholarshipCountry": "France",
+        "url": "https://www.tse-fr.eu"
     },
     {
         "id": 44,
-        "universityName": "IESEG School of Management",
-        "scholarshipDeadline": "16-Jan-22",
+        "universityName": "International Institute of Refrigeration (IIR)",
+        "scholarshipDeadline": "1-Feb-22",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "NA",
+        "scholarshipNationality": "NA",
+        "scholarshipCountry": "France",
+        "url": "https://www.iifiir.org"
+    },
+    {
+        "id": 45,
+        "universityName": "Paris Institute for Advanced Study (IAS)",
+        "scholarshipDeadline": "31-Dec-21",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "Postdoctoral",
+        "scholarshipNationality": "NA",
+        "scholarshipCountry": "France",
+        "url": "https://www.paris-iea.fr"
+    },
+    {
+        "id": 46,
+        "universityName": "Institute for Research in Biomedicine (IRB)",
+        "scholarshipDeadline": "31-Jan-22",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "Postdoctoral",
+        "scholarshipNationality": "NA",
+        "scholarshipCountry": "France",
+        "url": "https://www.irb.usi.ch"
+    },
+    {
+        "id": 47,
+        "universityName": "L'Oréal-UNESCO",
+        "scholarshipDeadline": "29-Oct-21",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "NA",
+        "scholarshipNationality": "Women in Science",
+        "scholarshipCountry": "France",
+        "url": "https://www.forwomeninscience.com"
+    },
+    {
+        "id": 48,
+        "universityName": "Ministry of Higher Education, Research, and Innovation",
+        "scholarshipDeadline": "20-Sep-21",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "Doctoral",
+        "scholarshipNationality": "French",
+        "scholarshipCountry": "France",
+        "url": "https://www.enseignementsup-recherche.gouv.fr"
+    },
+    {
+        "id": 49,
+        "universityName": "Agence Nationale de la Recherche (ANR)",
+        "scholarshipDeadline": "15-Nov-21",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "Doctoral",
+        "scholarshipNationality": "French",
+        "scholarshipCountry": "France",
+        "url": "https://www.agence-nationale-recherche.fr"
+    },
+    {
+        "id": 50,
+        "universityName": "Institut Pasteur",
+        "scholarshipDeadline": "10-Dec-21",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "Postdoctoral",
+        "scholarshipNationality": "NA",
+        "scholarshipCountry": "France",
+        "url": "https://www.pasteur.fr"
+    },
+    {
+        "id": 51,
+        "universityName": "Université Grenoble Alpes",
+        "scholarshipDeadline": "15-Feb-24",
         "scholarshipDepartment": "NA",
         "scholarshipLevel": "NA",
         "scholarshipNationality": "International",
-        "scholarshipCountry": "France."
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-grenoble-alpes.fr"
+    },
+    {
+        "id": 52,
+        "universityName": "University of Bordeaux",
+        "scholarshipDeadline": "1-Mar-24",
+        "scholarshipDepartment": "NA",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.u-bordeaux.com"
+    },
+    {
+        "id": 53,
+        "universityName": "Ecole Polytechnique",
+        "scholarshipDeadline": "31-Jan-24",
+        "scholarshipDepartment": "Engineering",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.polytechnique.edu"
+    },
+    {
+        "id": 54,
+        "universityName": "Université Paris Dauphine",
+        "scholarshipDeadline": "1-Feb-24",
+        "scholarshipDepartment": "Economics",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.dauphine.psl.eu"
+    },
+    {
+        "id": 55,
+        "universityName": "Université de Lille",
+        "scholarshipDeadline": "28-Feb-24",
+        "scholarshipDepartment": "Science and Technology",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-lille.fr"
+    },
+    {
+        "id": 56,
+        "universityName": "Université de Strasbourg",
+        "scholarshipDeadline": "15-Jan-24",
+        "scholarshipDepartment": "Humanities",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.unistra.fr"
+    },
+    {
+        "id": 57,
+        "universityName": "Université Toulouse III - Paul Sabatier",
+        "scholarshipDeadline": "1-Feb-24",
+        "scholarshipDepartment": "Natural Sciences",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-tlse3.fr"
+    },
+    {
+        "id": 58,
+        "universityName": "Université de Rennes 1",
+        "scholarshipDeadline": "20-Feb-24",
+        "scholarshipDepartment": "Law",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-rennes1.fr"
+    },
+    {
+        "id": 59,
+        "universityName": "Université Côte d'Azur",
+        "scholarshipDeadline": "31-Mar-24",
+        "scholarshipDepartment": "Engineering",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-cotedazur.fr"
+    },
+    {
+        "id": 60,
+        "universityName": "Université de Montpellier",
+        "scholarshipDeadline": "1-Apr-24",
+        "scholarshipDepartment": "Biology",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.umontpellier.fr"
+    },
+    {
+        "id": 61,
+        "universityName": "Université de Reims Champagne-Ardenne",
+        "scholarshipDeadline": "15-Feb-24",
+        "scholarshipDepartment": "Arts and Humanities",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-reims.fr"
+    },
+    {
+        "id": 62,
+        "universityName": "Université de Tours",
+        "scholarshipDeadline": "1-Mar-24",
+        "scholarshipDepartment": "Social Sciences",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-tours.fr"
+    },
+    {
+        "id": 63,
+        "universityName": "Université de Lorraine",
+        "scholarshipDeadline": "1-Feb-24",
+        "scholarshipDepartment": "Mathematics",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-lorraine.fr"
+    },
+    {
+        "id": 64,
+        "universityName": "Université de Poitiers",
+        "scholarshipDeadline": "1-Mar-24",
+        "scholarshipDepartment": "Physics",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-poitiers.fr"
+    },
+    {
+        "id": 65,
+        "universityName": "Université de Bourgogne",
+        "scholarshipDeadline": "1-Feb-24",
+        "scholarshipDepartment": "Chemistry",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.u-bourgogne.fr"
+    },
+    {
+        "id": 66,
+        "universityName": "Université de Savoie Mont Blanc",
+        "scholarshipDeadline": "15-Feb-24",
+        "scholarshipDepartment": "Environmental Sciences",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-smb.fr"
+    },
+    {
+        "id": 67,
+        "universityName": "Université de Rouen Normandie",
+        "scholarshipDeadline": "1-Mar-24",
+        "scholarshipDepartment": "Health Sciences",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-rouen.fr"
+    },
+    {
+        "id": 68,
+        "universityName": "Université de Limoges",
+        "scholarshipDeadline": "1-Feb-24",
+        "scholarshipDepartment": "Information Technology",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.unilim.fr"
+    },
+    {
+        "id": 69,
+        "universityName": "Université d'Orléans",
+        "scholarshipDeadline": "1-Mar-24",
+        "scholarshipDepartment": "Education",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-orleans.fr"
+    },
+    {
+        "id": 70,
+        "universityName": "Université de La Rochelle",
+        "scholarshipDeadline": "1-Apr-24",
+        "scholarshipDepartment": "Marine Sciences",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-larochelle.fr"
+    },
+    {
+        "id": 71,
+        "universityName": "Université de Franche-Comté",
+        "scholarshipDeadline": "15-Feb-24",
+        "scholarshipDepartment": "Material Sciences",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-fcomte.fr"
+    },
+    {
+        "id": 72,
+        "universityName": "Université de Haute-Alsace",
+        "scholarshipDeadline": "1-Mar-24",
+        "scholarshipDepartment": "Computer Science",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.uha.fr"
+    },
+    {
+        "id": 73,
+        "universityName": "Université de Picardie Jules Verne",
+        "scholarshipDeadline": "1-Feb-24",
+        "scholarshipDepartment": "Engineering",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.u-picardie.fr"
+    },
+    {
+        "id": 74,
+        "universityName": "Université de Nîmes",
+        "scholarshipDeadline": "1-Mar-24",
+        "scholarshipDepartment": "Architecture",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.unimes.fr"
+    },
+    {
+        "id": 75,
+        "universityName": "Université d'Angers",
+        "scholarshipDeadline": "1-Apr-24",
+        "scholarshipDepartment": "Agricultural Sciences",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-angers.fr"
+    },
+    {
+        "id": 76,
+        "universityName": "Université d'Avignon",
+        "scholarshipDeadline": "15-Feb-24",
+        "scholarshipDepartment": "Cultural Studies",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-avignon.fr"
+    },
+    {
+        "id": 77,
+        "universityName": "Université de Pau et des Pays de l'Adour",
+        "scholarshipDeadline": "1-Mar-24",
+        "scholarshipDepartment": "Geosciences",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-pau.fr"
+    },
+    {
+        "id": 78,
+        "universityName": "Université de La Réunion",
+        "scholarshipDeadline": "1-Apr-24",
+        "scholarshipDepartment": "Tropical Medicine",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-reunion.fr"
+    },
+    {
+        "id": 79,
+        "universityName": "Université de Polynésie Française",
+        "scholarshipDeadline": "15-Feb-24",
+        "scholarshipDepartment": "Marine Biology",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.upf.pf"
+    },
+    {
+        "id": 80,
+        "universityName": "Université de Nouvelle-Calédonie",
+        "scholarshipDeadline": "1-Mar-24",
+        "scholarshipDepartment": "Environmental Engineering",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.unc.nc"
+    },
+    {
+        "id": 81,
+        "universityName": "Université de Corse Pascal Paoli",
+        "scholarshipDeadline": "1-Apr-24",
+        "scholarshipDepartment": "Sociology",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.universita.corsica"
+    },
+    {
+        "id": 82,
+        "universityName": "Université de Perpignan Via Domitia",
+        "scholarshipDeadline": "15-Feb-24",
+        "scholarshipDepartment": "Political Science",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-perp.fr"
+    },
+    {
+        "id": 83,
+        "universityName": "Université de Toulon",
+        "scholarshipDeadline": "1-Mar-24",
+        "scholarshipDepartment": "Marine Engineering",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-tln.fr"
+    },
+    {
+        "id": 84,
+        "universityName": "Université de Technologie de Compiègne",
+        "scholarshipDeadline": "1-Apr-24",
+        "scholarshipDepartment": "Industrial Design",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.utc.fr"
+    },
+    {
+        "id": 85,
+        "universityName": "Université de Versailles Saint-Quentin-en-Yvelines",
+        "scholarshipDeadline": "15-Feb-24",
+        "scholarshipDepartment": "Astronomy",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.uvsq.fr"
+    },
+    {
+        "id": 86,
+        "universityName": "Université Paris 13",
+        "scholarshipDeadline": "1-Mar-24",
+        "scholarshipDepartment": "Economics",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-paris13.fr"
+    },
+    {
+        "id": 87,
+        "universityName": "Université Paris Nanterre",
+        "scholarshipDeadline": "1-Apr-24",
+        "scholarshipDepartment": "Philosophy",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.parisnanterre.fr"
+    },
+    {
+        "id": 88,
+        "universityName": "Université Paris-Est Créteil",
+        "scholarshipDeadline": "15-Feb-24",
+        "scholarshipDepartment": "Environmental Science",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.u-pec.fr"
+    },
+    {
+        "id": 89,
+        "universityName": "Université Paris-Sud",
+        "scholarshipDeadline": "1-Mar-24",
+        "scholarshipDepartment": "Physics",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.u-psud.fr"
+    },
+    {
+        "id": 90,
+        "universityName": "Université Sorbonne Nouvelle",
+        "scholarshipDeadline": "1-Apr-24",
+        "scholarshipDepartment": "Literature",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-paris3.fr"
+    },
+    {
+        "id": 91,
+        "universityName": "Université de Cergy-Pontoise",
+        "scholarshipDeadline": "15-Feb-24",
+        "scholarshipDepartment": "Business",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.u-cergy.fr"
+    },
+    {
+        "id": 92,
+        "universityName": "Université de Bretagne Sud",
+        "scholarshipDeadline": "1-Mar-24",
+        "scholarshipDepartment": "Marine Engineering",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-ubs.fr"
+    },
+    {
+        "id": 93,
+        "universityName": "Université d'Artois",
+        "scholarshipDeadline": "1-Apr-24",
+        "scholarshipDepartment": "Cultural Studies",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-artois.fr"
+    },
+    {
+        "id": 94,
+        "universityName": "Université de Picardie Jules Verne",
+        "scholarshipDeadline": "15-Feb-24",
+        "scholarshipDepartment": "Engineering",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.u-picardie.fr"
+    },
+    {
+        "id": 95,
+        "universityName": "Université de Limoges",
+        "scholarshipDeadline": "1-Mar-24",
+        "scholarshipDepartment": "Information Technology",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.unilim.fr"
+    },
+    {
+        "id": 96,
+        "universityName": "Université de Haute-Alsace",
+        "scholarshipDeadline": "1-Apr-24",
+        "scholarshipDepartment": "Computer Science",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.uha.fr"
+    },
+    {
+        "id": 97,
+        "universityName": "Université de Bretagne Occidentale",
+        "scholarshipDeadline": "15-Feb-24",
+        "scholarshipDepartment": "Earth Sciences",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-brest.fr"
+    },
+    {
+        "id": 98,
+        "universityName": "Université de La Rochelle",
+        "scholarshipDeadline": "1-Mar-24",
+        "scholarshipDepartment": "Marine Sciences",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-larochelle.fr"
+    },
+    {
+        "id": 99,
+        "universityName": "Université de Savoie Mont Blanc",
+        "scholarshipDeadline": "1-Apr-24",
+        "scholarshipDepartment": "Environmental Sciences",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.univ-smb.fr"
+    },
+    {
+        "id": 100,
+        "universityName": "Université Paris-Saclay",
+        "scholarshipDeadline": "1-Feb-24",
+        "scholarshipDepartment": "Physics",
+        "scholarshipLevel": "Graduate",
+        "scholarshipNationality": "International",
+        "scholarshipCountry": "France",
+        "url": "https://www.universite-paris-saclay.fr"
     }
 ]
